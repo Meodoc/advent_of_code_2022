@@ -1,4 +1,4 @@
-# [Advent of Code 2021](https://adventofcode.com/2022)
+# [Advent of Code 2022](https://adventofcode.com/2022)
 
 My Python implementations of the AoC 2022 challenge 🎄
 
