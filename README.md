@@ -12,3 +12,4 @@ My Python implementations of the AoC 2022 challenge 🎄
 | [Day 4: Camp Cleanup](https://adventofcode.com/2022/day/4)              | [day4.py](src/04/day4.py)    |
 | [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5)             | [day5.py](src/05/day5.py)    |
 | [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)            | [day6.py](src/06/day6.py)    |
+| [Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7)   | [day7.py](src/07/day7.py)    |
