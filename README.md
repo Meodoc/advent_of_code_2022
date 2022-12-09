@@ -13,4 +13,5 @@ My Python implementations of the AoC 2022 challenge 🎄
 | [Day 5: Supply Stacks](https://adventofcode.com/2022/day/5)           | [day5.py](src/05/day5.py) |
 | [Day 6: Tuning Trouble](https://adventofcode.com/2022/day/6)          | [day6.py](src/06/day6.py) |
 | [Day 7: No Space Left On Device](https://adventofcode.com/2022/day/7) | [day7.py](src/07/day7.py) |
+| [Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8)      | [day8.py](src/08/day8.py) |
 | [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9)             | [day9.py](src/09/day9.py) |
