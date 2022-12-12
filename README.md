@@ -16,3 +16,4 @@ My Python implementations of the AoC 2022 challenge 🎄
 | [Day 8: Treetop Tree House](https://adventofcode.com/2022/day/8)      | [day8.py](src/08/day8.py)   |
 | [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9)             | [day9.py](src/09/day9.py)   |
 | [Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10)      | [day10.py](src/10/day10.py) |
+| [Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11)  | [day11.py](src/11/day11.py) |
