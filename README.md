@@ -17,3 +17,4 @@ My Python implementations of the AoC 2022 challenge 🎄
 | [Day 9: Rope Bridge](https://adventofcode.com/2022/day/9)             | [day9.py](src/09/day9.py)   |
 | [Day 10: Cathode-Ray Tube](https://adventofcode.com/2022/day/10)      | [day10.py](src/10/day10.py) |
 | [Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11)  | [day11.py](src/11/day11.py) |
+| [Day 13: Distress Signal](https://adventofcode.com/2022/day/13)       | [day13.py](src/13/day13.py) |
