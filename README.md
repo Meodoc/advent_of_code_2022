@@ -19,3 +19,4 @@ My Python implementations of the AoC 2022 challenge 🎄
 | [Day 11: Monkey in the Middle](https://adventofcode.com/2022/day/11)  | [day11.py](src/11/day11.py) |
 | [Day 13: Distress Signal](https://adventofcode.com/2022/day/13)       | [day13.py](src/13/day13.py) |
 | [Day 14: Regolith Reservoir](https://adventofcode.com/2022/day/14)    | [day14.py](src/14/day14.py) |
+| [Day 15: Beacon Exclusion Zone](https://adventofcode.com/2022/day/15) | [day15.py](src/15/day15.py) |
