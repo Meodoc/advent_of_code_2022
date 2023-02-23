@@ -22,3 +22,4 @@ My Python implementations of the AoC 2022 challenge 🎄
 | [Day 15: Beacon Exclusion Zone](https://adventofcode.com/2022/day/15)    | [day15.py](src/15/day15.py) |
 | [Day 18: Boiling Boulders](https://adventofcode.com/2022/day/18)         | [day18.py](src/18/day18.py) |
 | [Day 20: Grove Positioning System](https://adventofcode.com/2022/day/20) | [day20.py](src/20/day20.py) |
+| [Day 25: Full of Hot Air](https://adventofcode.com/2022/day/25)          | [day25.py](src/25/day25.py) |
